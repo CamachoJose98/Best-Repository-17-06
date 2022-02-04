@@ -1,7 +1,7 @@
 # Best-Repository-17-06
-This is a test repository for lab3 group 17-06
-Project Team Members:
-Jose Camacho 
-
-making an edit to force conflict
+<<<<<<< HEAD
+This is a test repository for lab3 group 17-06 Members: Diego Jose
+=======
+This is a test repository for lab3 group 17-06 Members: Diego Jose
+>>>>>>> main
 
